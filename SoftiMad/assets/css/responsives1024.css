@@ -1,0 +1,1212 @@
+
+
+			/*------------ M E D I A   Q U E R I E S.....R E S P O N S I V E S----------------*/
+			/*-------------------------------------tablette----------------------------------*/
+			/*----------------------------------------1024Pixel----------------------------------*/
+
+@media screen and (max-width: 1024px)
+{
+
+body
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 1024px;
+
+}
+
+#menu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image: url(images/backgroundmenu.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width:1024px;
+	height: 550px;
+
+}
+#headermenu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image: url(images/fond-header.png);
+	background-size: 100%;
+	display: flex;
+	position: fixed;
+	width: 1024px;
+	top: 0;
+	z-index: 10;
+}
+#barre-menu
+{
+	display: none;
+}
+#logo
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 10px;
+}
+#listmenu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+}
+#listmenu ul
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	margin-top: 22px;
+	margin-left: 220px;
+}
+#listmenu li
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	list-style-type: none;
+}
+#listmenu a
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	text-decoration: none;
+	font-family:rubik;
+	font-size:11px;
+	color: white;
+	letter-spacing: 1.7px;
+	margin: 0px 5px;
+	padding: 15px 8px;
+	margin-top: 20px;
+}
+#listmenu a:hover
+{
+	background-color:#06A3BC;
+	transition: all 0.5s ease;
+}
+		/*---C O N T E N U MENU----*/
+#contenumenu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	width:1024px;
+}
+#soratra
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	margin-top: 80px;
+	margin-right: 0px;
+	width: 480px;
+}
+#soratra h1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:rubik-light;
+	font-size:40px;
+	color:#246974;
+	letter-spacing:-1px;	
+}
+#mobile
+{
+	display: none;
+
+}
+#personalise
+{
+	display: none;
+}
+#soratra span
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-size:37px;
+	color:#246974;
+	letter-spacing:1px;	
+	font-family:rubik-bold;
+}
+#web span, #mobile span
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-weight: 800;
+	font-size:47px;
+	color:#246974;
+	letter-spacing:1px;	
+	font-family:rubik-bold;
+}
+#mobile-titre
+{
+	display: none;
+}
+#personalise-titre
+{
+	display: none;
+}
+#soratra h2
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 900;
+	font-size:22px;
+	color:#51C4CC;
+	letter-spacing:-0px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+#mobile-para, #personalise-para
+{
+	display: none;
+}
+#soratra p
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;	
+	font-family:rubik;
+	font-weight: 500;
+	font-size:13px;
+	color:#585858;
+	letter-spacing:0.5px;
+	line-height: 25px;
+	margin-bottom: 30px;
+}
+#soratra a
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:metropolis;
+	font-weight: 650;
+	font-size:13px;
+	color: white;
+	letter-spacing: 2px;
+	text-decoration: none;
+	background-color: #10C0DC;
+	border-radius: 50px;
+	padding: 15px 25px 15px 25px;
+}
+#soratra a:hover
+{
+	border: 2px solid #10C0DC;
+	color:white ;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+#sary
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 90px;
+}
+#sary img
+{
+	width:450px;
+}
+#boutton
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 25px;
+	padding-bottom: 0px;
+}
+#boutton1
+{
+	color:#10C0DC;	
+	background-color:white;
+	border: 2px solid #10C0DC;
+}
+.boutton1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-color:#10C0DC;
+	border-radius: 50px;
+	text-decoration: none;
+	color:#10C0DC;
+	font-size: 5px;
+	padding: 0px 40px;
+	margin: 0px 20px;
+	border: 2px solid #10C0DC;
+}
+
+
+	/* Service tsika zao*/
+#service
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	padding-top: 57px;
+	width: 1024px;
+}
+#headerservice
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: left;
+	display: flex;
+	flex-wrap: wrap;
+	background-image: url(images/fond-service.png);
+	background-repeat: no-repeat;
+	width: 1024px;
+}
+#soratraservice
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	margin-top: 30px;
+	margin-left: 30px;
+
+}
+#soratraservice h2
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	font-family: metropolis;
+	font-size:18px;
+	font-weight:100;
+	color:white;
+	letter-spacing:3px;
+}
+#soratraservice h1
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	font-family: rubik;
+	font-size:35px;
+	font-weight:400;
+	color: white;
+	letter-spacing:8px;
+	font-style: italic;
+}
+#soratraservice img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+}
+#saryordi
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	padding-top: 20px;
+	margin-left: 500px;
+}
+#saryordi img
+{
+	width: 120px;
+}
+					/*contenu service zao tsika*/
+#contenuservice
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 10px;
+	width: 1024px;
+}
+.boriborikely
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin: 0px 20px 0px 20px;
+	width: 160px;
+	padding:20px;
+	cursor:pointer;
+
+}	
+.boriborikely:hover
+{
+	background-color:#E8F9FC;
+	box-shadow: 0px 0px 15px #ACCDD2;
+	transition: all 0.5s ease;
+}			
+.boriborikely img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	border-radius: 100px;
+	transition: 1s ease-in-out;
+	width: 120px;
+}	
+.boriborikely img:hover
+{
+	background-color:#BBE4FF;
+	transform: rotate(360deg) scale(1.1, 1.1);
+
+}			
+.boriborikely p
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family: rubik;
+	font-weight: 400;
+	font-size: 15px;
+	letter-spacing: 0.5px;
+	color: #545454;
+	margin-top: 20px;
+	margin-bottom: 0px;
+}				
+.boriborikely span
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-weight: 700;
+}
+.boriborikely a
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family: metropolis;
+	font-weight: 500;
+	font-size: 0.7em;
+	color: white;
+	background-color:#10C0DC;
+	border-radius: 50px;
+	letter-spacing: 1px;
+	padding: 4px 15px;
+	text-decoration: none;
+}
+.boriborikely a:hover
+{
+	border: 2px solid #10C0DC;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+				/*PORFOLIO NDRAY TSIKA ZAO*/
+#porfolio
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 0px;
+	padding-top: 57px;
+	width: 1024px;
+}
+#headerporfolio
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image: url(images/fond-porfolio.png);
+	background-repeat: no-repeat;
+	width: 1024px;
+}
+#headerporfolio h2
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family: metropolis;
+	font-size:20px;
+	font-weight:200;
+	color:white;
+	letter-spacing:3px;
+	padding-top: 30px;
+}
+#headerporfolio h1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family: rubik;
+	font-size:35px;
+	font-weight:400;
+	color: white;
+	letter-spacing:8px;
+	font-style: italic;
+	padding-bottom: 20px;
+}
+
+#bouttontout
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #D8E0FF;
+}
+#bouttontout a
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:metropolis-bold;
+	font-size:13px ;
+	color:white;
+	letter-spacing: 4px;
+	text-decoration: none;
+	border-radius: 50px;
+	padding: 5px 30px;
+	margin:30px 40px 20px 40px;
+	border: 1.5px solid #0093B1;
+	
+	background: #0093B1;
+}
+#bouttontout a:hover
+{
+	border: 1.5px solid #0093B1;
+	color:#0093B1 ;
+	background: white;
+	transition: all 0.5s ease;
+}
+#contenuporfolio
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	background-color: #D8E0FF;
+	padding-bottom: 50px;
+}
+
+#img-contenu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+}
+#img-contenu img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin:30px 20px;
+	box-shadow: 0px 0px 3px #a9c4c8;	
+	cursor: pointer;
+	width:160px;
+}
+#img-contenu img:hover
+{
+	transition: all 0.5s ease;
+	box-shadow: 0px 0px 5px #006C7D;	
+}
+#fleche-gauche1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	margin-top: 50px;
+	margin-right: 20px;	
+	cursor: pointer;
+}
+
+#fleche-droite1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	margin-top: 50px;
+	margin-left:20px; 
+	cursor: pointer;	
+}
+#fleche-gauche1 img, #fleche-droite1 img
+{
+	width: 30px;
+}
+
+				/*QUI SOMMES NOUS*/
+#qui-sommes-nous
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image: url(images/fond-qui-sommes.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 1024px;
+}
+#qui-sommes
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	margin-top: 30px;
+	width: 1024px;
+}
+#soratra-qui
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: left;
+	margin-top: 50px;
+}
+#soratra-qui h1
+{
+	margin:0;
+	padding: 0;
+	text-align:left;
+	justify-content: center;
+	font-family:metropolis;
+	font-weight: 700;
+	font-size:35px;
+	color:#006C7D;
+	letter-spacing:5px;
+
+}
+#soratra-qui img
+{
+	margin:0;
+	padding: 0;
+	text-align:left;
+	justify-content: left;
+}
+#soratra-qui h2
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 500;
+	font-size:14px;
+	color:#4E4E4E;
+	line-height: 28px;
+	margin-top: 10px;
+	width: 330px;
+}
+#sary-qui
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+#sary-qui img
+{
+	width: 450px;
+}
+
+#apropos
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	width: 1024px;
+}
+#img-apropos
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+}
+#img-apropos img
+{
+	width: 200px;
+}
+#soratra-apropos
+{
+	margin:0;
+	padding: 0;
+	text-align: right;
+	justify-content: right;
+	margin-top: 20px;
+	margin-left: 150px;
+	padding-bottom: 0px;
+}
+#soratra-apropos h1
+{
+	margin:0;
+	padding: 0;
+	text-align:right;
+	justify-content: center;
+	font-family:metropolis;
+	font-weight: 700;
+	font-size:35px;
+	color:#006C7D;
+	letter-spacing:5px;
+}
+#soratra-apropos h2
+{
+	margin:0;
+	padding: 0;
+	text-align: right;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 500;
+	font-size:14px;
+	color:#4E4E4E;
+	line-height: 28px;
+	margin-top: 15px;
+	width: 550px;
+}
+				/*NOS ENGAGEMENT*/
+#nos-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	padding-top:57px;
+	width: 1024px;
+}
+#header-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-image: url(images/fond-engagement.png);
+	background-repeat: no-repeat;
+	width: 1024px;
+}
+#header-engagement h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	font-family: rubik;
+	font-size:30px;
+	font-weight:400;
+	color: white;
+	letter-spacing:8px;
+	font-style: italic;
+	padding: 30px 0px;
+
+}
+#header-engagement img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	margin-top: 10px;
+	padding-bottom: 40px;
+}
+#technologie
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	margin-top: 30px;
+}
+#technologie h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis;
+	font-size:19px;
+	font-weight:800;
+	color: #5E5E5E;
+	letter-spacing:15px;
+}
+#technologie img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+
+#contenu-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display: flex;
+	margin-top: 30px;
+
+}
+#fleche-engagement-g
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	margin-top: 20px;
+	margin-right: 40px;
+		cursor: pointer;
+}
+#fleche-engagement-d
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	margin-top: 20px;
+	margin-left: 40px;
+		cursor: pointer;
+}
+#fleche-engagement-g img, #fleche-engagement-d img
+{
+	width: 40px;
+}
+#sary-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+#sary-engagement img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	box-shadow: 0px 0px 3px #a9c4c8;	
+	width: 170px;
+	margin: 0px 10px;
+	cursor: pointer;
+}
+#sary-engagement img:hover
+{
+	transition: all 0.5s ease;
+	box-shadow: 0px 0px 5px #006C7D;	
+}
+#soratra-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	margin-top: 30px;
+}
+#soratra-engagement h2
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis;
+	font-weight: 400;
+	font-size:15px;
+	color:#676767;
+	letter-spacing:0px;
+	line-height: 30px;
+	margin-bottom: 30px;
+
+}
+#soratra-engagement a
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 400;
+	font-size:15px;
+	color: white;
+	letter-spacing: 2px;
+	text-decoration: none;
+	background-color: #10C0DC;
+	padding: 10px 20px 10px 20px;
+}
+#soratra-engagement a:hover
+{
+	border: 2px solid #10C0DC;
+	color:white ;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+
+			/*CONTACT TSIKA ZAO*/
+#contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	padding-top: 57px;
+	width: 1024px;
+}
+
+#header-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display: flex;
+	background-image: url(images/fond-contact.png);
+	width:1024px;
+}
+#soratra-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+#soratra-contact h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family: rubik;
+	font-size:27px;
+	font-weight:400;
+	color: white;
+	letter-spacing:8px;
+	font-style: italic;
+	padding-top: 50px;
+}
+#soratra-contact img
+{
+	display: none;
+}
+#sary-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	margin-left: 250px;
+	padding-top: 10px;
+}
+#sary-contact img
+{
+	width: 90px;
+}
+
+#contenu-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display: flex;
+	margin-top: 20px;
+	width: 1024px;
+}
+#formulaire
+{
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+	text-align: center;
+	background-color: #EFFDFF;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-right: 10px;
+}
+.formulaire
+{
+	border: 1px solid #08ACC6;
+	border-radius: 20px;
+	width: 320px;
+	padding: 10px;
+	font-family:metropolis;
+	font-weight: 300;
+	font-size: 13px;
+	color: #808080;
+	margin-top: 30px;
+	outline: none;
+	font-style: italic;
+}
+.formulaire:focus
+{
+	font-family:metropolis;
+	font-style:none;
+	color: #006C7D;
+	font-style: inherit;
+	font-size: 16px;
+	font-weight: 400;
+}
+#submit
+{
+	font-family:corbel ;
+		font-weight: 300;
+		font-size:20px;
+		color: white;
+		letter-spacing:1px;
+		background-color: #10C0DC;
+		border-radius: 50px;
+		padding: 10px 30px;
+		outline: none;
+		border: none;
+		cursor: pointer;
+		margin-top: 30px;
+}
+#submit:hover
+{
+	border: 2px solid #10C0DC;
+	color:white ;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+#formulaire h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family: rubik;
+	font-size:30px;
+	font-weight: 100;
+	color:#4D7092;
+	letter-spacing:-2px;
+	margin-top:30px;
+}
+iframe
+{
+	width: 550px;
+}
+
+					/*COORDONNE*/
+#coordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-color: #10C0DC;
+	padding: 0;
+	width:1024px;
+}
+
+#titre-coordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-color:#0BA4BC;
+}
+#titre-coordonne h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis;
+	font-weight: 600;
+	letter-spacing:4px ;
+	color: white;
+	font-size:20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#contenu-coordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#soratracoordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+
+
+.contenucoordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:left;
+	justify-content: left;
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 10px;
+}
+.contenucoordonne h3
+{
+	margin: 0;
+	padding: 0;
+	font-family:corbel;
+	font-weight:200;
+	letter-spacing:2px ;
+	color: white;
+	font-size:15px ;
+	font-style: italic;
+	line-height: 35px;
+
+}
+.contenucoordonne img
+{
+	width: 30px;
+	height: 25px;
+	margin: 0;
+	cursor: pointer;
+	margin-right: 12px;
+	padding-top: 5px;
+}
+
+.contenucoordonne h2
+{
+	margin: 0;
+	padding: 0;
+	margin: 0;
+	padding: 0;
+	font-family:corbel;
+	font-weight: lighter;
+	letter-spacing:2px ;
+	color: white;
+	font-size:15px;
+	line-height: 30px;
+}
+#sarycoordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+
+	margin-left: 200px;
+	margin-top: 50px;
+
+
+}
+#sarycoordonne img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 70px;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin-bottom: 50px;
+}
+
+#sarycoordonne img:hover
+{
+	filter: invert(5%);
+	filter: contrast(2);
+	transition: all 0.8s ease;
+	transform: rotate(360deg) scale(1.1, 1.1);
+}
+
+#footer
+{
+	height: 53px;
+	background-color: #246974;
+	padding: 0;
+	margin:0;
+	text-align: center;
+}
+#footer h1
+{
+	margin: 0;
+	padding: 0;
+	font-family:corbel;
+	font-size: 0.9em;
+	letter-spacing: 10px;
+	color: white;
+	font-weight: 100;
+	padding-top: 20px;
+}
+#loko1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	height: 30px;
+	background-color:#009EB7;
+}
+#loko2
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	height: 30px;
+	background-color:#007D91;
+}
+
+
+

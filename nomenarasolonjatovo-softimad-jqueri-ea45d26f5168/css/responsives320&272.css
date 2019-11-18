@@ -1,0 +1,2417 @@
+
+
+			/*------------ M E D I A   Q U E R I E S.....R E S P O N S I V E S----------------*/
+			/*-------------------------------------P H O N E K E L Y----------------------------------*/
+			/*----------------------------------------320 Pixel----------------------------------*/
+
+@media screen and (max-width: 320px)
+{
+	body
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 320px;
+}
+#sary-engagement-table
+{
+	display: none;
+}
+#menu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image:none;
+	background-repeat: no-repeat;
+	width: 320px;
+	height: 350px;
+
+}
+#headermenu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image: url(images/fond-menu-phone-272.png);
+	display: flex;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	z-index: 10;
+	background-repeat: no-repeat;
+	width: 320px;
+}
+#logo
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: left;
+	margin-top: 10px;
+}
+#logo img
+{
+	width: 100px;
+}
+#listmenu
+{
+display: none;
+}
+#barre-menu
+{
+	display: block;
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 25px;
+	margin-left: 90px;
+}
+
+#menu-phone
+{
+	position:fixed;
+	margin:0;
+	padding: 0;
+	text-align:left;
+	justify-content:left;
+	background-color:rgb(16, 192, 220, 0.8);
+	width: 320px;
+}
+#menu-phone img
+{
+	width: 20px;
+	height: 20px;
+	margin:0;
+	padding: 0;
+	text-align:right;
+	justify-content:right;
+	padding-top: 30px;
+	cursor: pointer;
+
+}
+#menu-phone li
+{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content:left;
+	margin: 30px 0px;
+
+}
+#menu-phone a
+{
+	font-family: metropolis-bold;
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+	letter-spacing: 3px;
+	border-bottom: 1px solid white;
+	padding: 5px 0px;
+
+}
+
+			/*CONTENU MENU TAIKA ZAO*/
+#contenumenu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	background-image: url(images/fond-contenu-menu1.png);
+	background-repeat: no-repeat;
+	width: 320px;
+	height: 300px;
+}
+#soratra
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	margin-top: 75px;
+	width: 300px;
+}
+#soratra h1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:rubik-light;
+	font-size:25px;
+	color:#246974;
+	letter-spacing:-1px;	
+}
+#soratra span
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-weight: 800;
+	font-size:35px;
+	color:#246974;
+	letter-spacing:1px;	
+	font-family:rubik-bold;
+}
+#soratra h2
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: left;
+	font-family:rubik-light;
+	font-weight: 900;
+	font-size:13px;
+	color:#51C4CC;
+	letter-spacing:-1px;
+	margin-top: 35px;
+	margin-bottom: 20px;
+	margin-right: 80px;
+}
+#soratra p
+{
+display: none;
+}
+#soratra a
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:Segoe UI ;
+	font-weight: 600;
+	font-size:11px;
+	color: white;
+	letter-spacing: 1px;
+	text-decoration: none;
+	background-color: #10C0DC;
+	border-radius: 50px;
+	padding: 8px 10px;
+}
+#soratra a:hover
+{
+	border: 2px solid #10C0DC;
+	color:white ;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+#sary
+{
+display: none;
+}
+#boutton
+{
+	display: none;
+}
+#boutton-p
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 15px;
+	padding-bottom: 0px;
+	display: block;
+}
+.boutton1-p
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-color:#10C0DC;
+	border-radius: 100px;
+	text-decoration: none;
+	color:#10C0DC;
+	font-size: 0px;
+	padding:1px 15px;
+	margin: 0px 20px;
+	border: 2px solid #10C0DC;
+}
+.boutton1-p:hover
+{
+	border: 2px solid #10C0DC;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+
+
+
+							/* Service tsika zao*/
+#service
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 320px;
+	padding-top: 57px;
+}
+#headerservice
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	background-image: url(images/fond-service.png);
+	background-repeat: no-repeat;
+	width: 320px;
+}
+#soratraservice
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+}
+#soratraservice h2
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	font-family: metropolis;
+	font-size:9px;
+	font-weight:200;
+	color:white;
+	letter-spacing:3px;
+	padding-top: 20px;
+	margin-bottom: 5px;
+}
+#soratraservice h1
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	font-family: rubik;
+	font-size:20px;
+	font-weight:400;
+	color: white;
+	letter-spacing:4px;
+	font-style: italic;
+}
+#soratraservice img
+{
+display: none;
+}
+#saryordi
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+#saryordi img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 60px;
+}
+	
+					/*contenu service zao tsika*/
+#contenuservice
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 40px;
+	width: 320px;
+}
+#fleche-g, #fleche-d
+{
+	display: block;
+	margin-top:30px;
+	margin-right: 13px;
+	margin-left: 13px;
+}
+#fleche-g img, #fleche-d img
+{
+	width: 30px;
+}
+.boriborikely
+{
+	display: none;
+}
+#boriborikely-phone
+{
+	display: block;
+}
+#boriborikely-phone img
+{
+	width: 120px;
+}	
+
+#boriborikely-phone p
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 400;
+	font-size: 16px;
+	letter-spacing: 0.5px;
+	color: #545454;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}				
+#boriborikely-phone span
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-weight: 700;
+}
+#boriborikely-phone a
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family: segoe UI;
+	font-weight: 500;
+	font-size: 0.7em;
+	color: white;
+	background-color:#10C0DC;
+	border-radius: 50px;
+	letter-spacing: 1px;
+	padding: 4px 15px;
+	text-decoration: none;
+}
+#boriborikely-phone a:hover
+{
+	border: 2px solid #10C0DC;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+
+				/*PORFOLIO NDRAY TSIKA ZAO*/
+#porfolio
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	padding-top: 57px;
+	width: 320px;
+}
+#headerporfolio
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image: url(images/fond-porfolio.png);
+	background-repeat: no-repeat;
+	width:320px;
+}
+#headerporfolio h2
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family: metropolis;
+	font-size:10px;
+	font-weight:200;
+	color:white;
+	letter-spacing:3px;
+	padding-top: 15px;
+}
+#headerporfolio h1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:rubik;
+	font-size:20px;
+	font-weight:400;
+	color: white;
+	letter-spacing:8px;
+	font-style: italic;
+	padding-bottom: 20px;
+}
+
+#bouttontout
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #D8E0FF;
+	padding-top: 10px;
+}
+#bouttontout a
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:metropolis;
+	font-weight: 400;
+	font-size:10px ;
+	color:white;
+	letter-spacing: 1px;
+	text-decoration: none;
+	border-radius: 50px;
+	padding: 4px 10px;
+	margin:10px 2px;
+	border: 1px solid #0093B1;
+	
+	background: #0093B1;
+}
+#bouttontout a:hover
+{
+	border: 1px solid #0093B1;
+	color:#0093B1 ;
+	background: white;
+	transition: all 0.5s ease;
+}
+#contenuporfolio
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: nowrap;
+	background-color: #D8E0FF;
+	padding-bottom: 20px;
+}
+#img-contenu img
+{
+display: none;
+}
+#img-portsfolio
+{
+	display: none;
+}
+#porfolio-phone
+{
+	
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: block;
+	margin-top: 20px;
+}
+#porfolio-phone img
+{
+	width: 150px;
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+}
+#fleche-gauche1, #fleche-droite1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 50px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+#fleche-gauche1 img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	cursor: pointer;
+	width: 20px;
+}
+#fleche-droite1 img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	cursor: pointer;
+	width: 20px;	
+}
+					/*QUI SOMMES NOUS*/
+#qui-sommes-nous
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image: inherit;
+	background-repeat: no-repeat;
+	width: 320px;
+	padding-top: 57px;
+}
+#qui-sommes
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: block;
+	width: 320px;
+}
+#soratra-qui
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content:center;
+
+}
+#soratra-qui h1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content:center;
+	font-family:rubik;
+	font-weight: 700;
+	font-size:18px;
+	color:white;
+	letter-spacing:2px;
+	background-image: url(images/fond-porfolio.png);
+	padding: 15px 0px;
+
+}
+#soratra-qui img
+{
+display: none;
+}
+#soratra-qui h2
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content:center;
+	font-family:rubik;
+	font-weight: 500;
+	font-size:10.5px;
+	color:#4E4E4E;
+	line-height: 23px;
+	width: 260px;
+	margin-left: 7px;
+	margin-top: 10px;
+
+
+}
+#sary-qui
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 272px;
+}
+#sary-qui img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 272px;
+}
+
+#apropos
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display:block;
+	margin-top: 20px;
+	width: 320px;
+}
+#img-apropos
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	float: right;
+	margin-right: 10px;
+}
+#img-apropos img
+{
+	width: 100px;
+}
+#soratra-apropos
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+}
+#soratra-apropos img
+{
+	display: none;
+}
+#soratra-apropos h1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 700;
+	font-size:22px;
+	color:#006C7D;
+	letter-spacing:3px;
+	margin-bottom: 10px;
+}
+#soratra-apropos h2
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 500;
+	font-size:10.5px;
+	color:#4E4E4E;
+	line-height: 23px;
+	width: 300px;
+	margin-left: 15px;
+}
+
+				/*NOS ENGAGEMENT*/
+#nos-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 320px;
+	padding-top: 57px;
+}
+#header-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-image: url(images/fond-engagement.png);
+	background-repeat: no-repeat;
+	margin-bottom: 20px;
+	width: 320px;
+}
+#header-engagement h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	font-family:rubik;
+	font-size:20px;
+	font-weight:500;
+	color: white;
+	letter-spacing:4px;
+	font-style:inherit;
+	padding: 15px 10px;
+
+}
+#header-engagement img
+{
+display: none;
+}
+#technologie
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	margin-bottom: 18px;
+}
+#technologie h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis;
+	font-size:18px;
+	font-weight:800;
+	color: #5E5E5E;
+	letter-spacing:8px;
+}
+#technologie img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 100px;
+	height: 1px;
+}
+
+#contenu-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display: flex;
+	margin-bottom: 18px;
+
+}
+#sary-engagement-phone
+{
+	display: block;
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+#sary-engagement-phone img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 120px;
+	box-shadow: 0px 0px 5px #6CA2AB;
+	cursor: pointer;
+}
+#fleche-engagement-g, #fleche-engagement-d
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	margin: 20px 22px 0px 22px;
+}
+#fleche-engagement-g img, #fleche-engagement-d img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	cursor: pointer;
+	width: 30px;
+}
+#sary-engagement
+{
+display: none;
+}
+
+#soratra-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+#soratra-engagement h2
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 400;
+	font-size:12px;
+	color:#676767;
+	letter-spacing:0px;
+	line-height: 25px;
+	padding: 0px 20px;
+	margin-bottom: 15px;
+
+
+}
+#soratra-engagement h2 br
+{
+	display: none;
+}
+#soratra-engagement a
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis;
+	font-weight: 500;
+	font-size:11px;
+	color: white;
+	letter-spacing: 2px;
+	text-decoration: none;
+	background-color: #10C0DC;
+	padding: 10px 10px;
+}
+#soratra-engagement a:hover
+{
+	border: 2px solid #10C0DC;
+	color:white ;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+
+
+			/*CONTACT TSIKA ZAO*/
+#contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	padding-top: 56px;
+	width: 320px;
+}
+
+#header-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display: flex;
+	background-image: url(images/fond-contact.png);
+	width: 320px;
+}
+#soratra-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+#soratra-contact h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis-bold;
+	font-size:20px;
+	color: white;
+	letter-spacing:4px;
+	font-style: inherit;
+	padding-top: 18px;
+	padding-left: 5px;
+}
+#soratra-contact img
+{
+	display: none;
+}
+#sary-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	padding-top: 10px;
+}
+#sary-contact img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 70px;	
+}
+
+#contenu-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display:block;
+	width: 320px;
+}
+#formulaire
+{
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+	text-align: center;
+	background-color: #EFFDFF;
+	padding-bottom: 20px;
+}
+#formulaire img
+{
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+	text-align: center;
+}
+.formulaire
+{
+	margin: 0;
+	padding: 0;
+	border: 1px solid #08ACC6;
+	border-radius: 20px;
+	width: 230px;
+	font-family:metropolis-light;
+	font-size: 13px;
+	color: #808080;
+	margin-top: 18px;
+	outline: none;
+	font-style: italic;
+	padding: 8px;
+}
+.formulaire:focus
+{
+	font-family: metropolis;
+	font-style:none;
+	color: #006C7D;
+	font-style: inherit;
+	font-size: 15px;
+	font-weight: 400;
+}
+#submit
+{
+	font-family:metropolis;
+		font-size:15px;
+		color: white;
+		letter-spacing:1px;
+		background-color: #10C0DC;
+		border-radius: 50px;
+		padding: 13px 30px;
+		outline: none;
+		border: none;
+		cursor: pointer;
+		margin-top: 18px;
+}
+#submit:hover
+{
+	border: 2px solid #10C0DC;
+	color:white ;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+#formulaire h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family: corbel;
+	font-size:25px;
+	font-weight: 500;
+	color:#4D7092;
+	letter-spacing:-2px;
+	padding-top: 20px;
+}
+iframe
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center; 
+	width: 300px;
+	height: 300px;
+	margin-top: 10px;
+}
+	
+					/*COORDONNE*/
+#coordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-color: #10C0DC;
+	margin-top: 20px;
+	width: 320px;
+}
+
+#titre-coordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-color:#0BA4BC;
+}
+#titre-coordonne h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis;
+	letter-spacing:4px ;
+	color: white;
+	font-size:22px ;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#contenu-coordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display:block;
+}
+
+#soratracoordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+
+
+.contenucoordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:left;
+	justify-content: left;
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 18px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.contenucoordonne h3
+{
+	margin: 0;
+	padding: 0;
+	font-family:metropolis-light;
+	letter-spacing:2px ;
+	color: white;
+	font-size:11px ;
+	font-style: italic;
+	line-height: 30px;
+	width: 200px;
+
+}
+.contenucoordonne img
+{
+	width: 30px;
+	height: 25px;
+	margin: 0;
+	cursor: pointer;
+	margin-right: 12px;
+	padding-top: 5px;
+}
+
+.contenucoordonne h2
+{
+	margin: 0;
+	padding: 0;
+	margin: 0;
+	padding: 0;
+	font-family:metropolis-light;
+	font-weight: lighter;
+	letter-spacing:2px ;
+	color: white;
+	font-size:15px;
+	line-height: 30px;
+}
+#sarycoordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-color:#009EB7;
+	padding: 18px 0px;
+
+
+}
+#sarycoordonne br
+{
+	display: none;
+}
+#sarycoordonne img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 50px;
+	margin: 0px 5px;
+}
+
+#sarycoordonne img:hover
+{
+	filter: invert(5%);
+	filter: contrast(2);
+	transition: all 0.5s ease;
+}
+
+#footer
+{
+	height: 30px;
+	background-color: #246974;
+	padding: 0;
+	margin:0;
+	text-align: center;
+}
+#footer h1
+{
+	margin: 0;
+	padding: 0;
+	font-family:metropolis-light;
+	font-size: 7px;
+	letter-spacing: 5px;
+	color: white;
+
+	padding-top: 10px;
+}
+#loko1
+{
+display: none;
+}
+#loko2
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	height: 15px;
+	background-color:#007D91;
+}
+}
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+			/*------------ M E D I A   Q U E R I E S.....R E S P O N S I V E S----------------*/
+			/*-------------------------------------P H O N E K E L Y----------------------------------*/
+			/*-----------------------------------------2 7 2 Pixel----------------------------------*/
+
+@media screen and (max-width: 272px)
+{
+	body
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 272px;
+}
+#sary-engagement-table
+{
+	display: none;
+}
+#menu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image:none;
+	background-repeat: no-repeat;
+	width: 272px;
+	height: 350px;
+
+}
+#headermenu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image: url(images/fond-menu-phone-272.png);
+	display: flex;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	z-index: 10;
+	background-repeat: no-repeat;
+	width: 272px;
+}
+#logo
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: left;
+	margin-top: 10px;
+}
+#logo img
+{
+	width: 100px;
+}
+#listmenu
+{
+display: none;
+}
+#barre-menu
+{
+	display: block;
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 25px;
+	margin-left: 90px;
+}
+
+#menu-phone
+{
+	position:fixed;
+	margin:0;
+	padding: 0;
+	text-align:left;
+	justify-content:left;
+	background-color:rgb(16, 192, 220, 0.8);
+	width: 272px;
+}
+#menu-phone img
+{
+	width: 20px;
+	height: 20px;
+	margin:0;
+	padding: 0;
+	text-align:right;
+	justify-content:right;
+	padding-top: 30px;
+	cursor: pointer;
+
+}
+#menu-phone li
+{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content:left;
+	margin: 30px 0px;
+
+}
+#menu-phone a
+{
+	font-family: metropolis-bold;
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+	letter-spacing: 3px;
+	border-bottom: 1px solid white;
+	padding: 5px 0px;
+
+}
+
+			/*CONTENU MENU TAIKA ZAO*/
+#contenumenu
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	background-image: url(images/fond-contenu-menu1.png);
+	background-repeat: no-repeat;
+	width: 272px;
+	height: 300px;
+}
+#soratra
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	margin-top: 75px;
+	width: 250px;
+}
+#soratra h1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:rubik-light;
+	font-size:25px;
+	color:#246974;
+	letter-spacing:-1px;	
+}
+#soratra span
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-weight: 800;
+	font-size:35px;
+	color:#246974;
+	letter-spacing:1px;	
+	font-family:rubik-bold;
+}
+#soratra h2
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: left;
+	font-family:rubik-light;
+	font-weight: 900;
+	font-size:13px;
+	color:#51C4CC;
+	letter-spacing:-1px;
+	margin-top: 35px;
+	margin-bottom: 20px;
+	margin-right: 80px;
+}
+#soratra p
+{
+display: none;
+}
+#soratra a
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:Segoe UI ;
+	font-weight: 600;
+	font-size:11px;
+	color: white;
+	letter-spacing: 1px;
+	text-decoration: none;
+	background-color: #10C0DC;
+	border-radius: 50px;
+	padding: 8px 10px;
+}
+#soratra a:hover
+{
+	border: 2px solid #10C0DC;
+	color:white ;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+#sary
+{
+display: none;
+}
+#boutton
+{
+	display: none;
+}
+#boutton-p
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 15px;
+	padding-bottom: 0px;
+	display: block;
+}
+.boutton1-p
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-color:#10C0DC;
+	border-radius: 100px;
+	text-decoration: none;
+	color:#10C0DC;
+	font-size: 0px;
+	padding:1px 15px;
+	margin: 0px 20px;
+	border: 2px solid #10C0DC;
+}
+.boutton1-p:hover
+{
+	border: 2px solid #10C0DC;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+
+
+
+							/* Service tsika zao*/
+#service
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 272px;
+	padding-top: 57px;
+}
+#headerservice
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	background-image: url(images/fond-service.png);
+	background-repeat: no-repeat;
+	width: 272px;
+}
+#soratraservice
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+}
+#soratraservice h2
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	font-family: metropolis;
+	font-size:9px;
+	font-weight:200;
+	color:white;
+	letter-spacing:3px;
+	padding-top: 20px;
+	margin-bottom: 5px;
+}
+#soratraservice h1
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	font-family: rubik;
+	font-size:20px;
+	font-weight:400;
+	color: white;
+	letter-spacing:4px;
+	font-style: italic;
+}
+#soratraservice img
+{
+display: none;
+}
+#saryordi
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+#saryordi img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 60px;
+}
+	
+					/*contenu service zao tsika*/
+#contenuservice
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 40px;
+	width: 272px;
+}
+#fleche-g, #fleche-d
+{
+	display: block;
+	margin-top:30px;
+	margin-right: 13px;
+	margin-left: 13px;
+}
+#fleche-g img, #fleche-d img
+{
+	width: 30px;
+}
+.boriborikely
+{
+	display: none;
+}
+#boriborikely-phone
+{
+	display: block;
+}
+#boriborikely-phone img
+{
+	width: 120px;
+}	
+
+#boriborikely-phone p
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 400;
+	font-size: 16px;
+	letter-spacing: 0.5px;
+	color: #545454;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}				
+#boriborikely-phone span
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-weight: 700;
+}
+#boriborikely-phone a
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family: segoe UI;
+	font-weight: 500;
+	font-size: 0.7em;
+	color: white;
+	background-color:#10C0DC;
+	border-radius: 50px;
+	letter-spacing: 1px;
+	padding: 4px 15px;
+	text-decoration: none;
+}
+#boriborikely-phone a:hover
+{
+	border: 2px solid #10C0DC;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+
+				/*PORFOLIO NDRAY TSIKA ZAO*/
+#porfolio
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	padding-top: 57px;
+	width: 272px;
+}
+#headerporfolio
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image: url(images/fond-porfolio.png);
+	background-repeat: no-repeat;
+	width: 272px;
+}
+#headerporfolio h2
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family: metropolis;
+	font-size:10px;
+	font-weight:200;
+	color:white;
+	letter-spacing:3px;
+	padding-top: 15px;
+}
+#headerporfolio h1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:rubik;
+	font-size:20px;
+	font-weight:400;
+	color: white;
+	letter-spacing:8px;
+	font-style: italic;
+	padding-bottom: 20px;
+}
+
+#bouttontout
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #D8E0FF;
+	padding-top: 10px;
+}
+#bouttontout a
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:metropolis;
+	font-weight: 400;
+	font-size:10px ;
+	color:white;
+	letter-spacing: 1px;
+	text-decoration: none;
+	border-radius: 50px;
+	padding: 4px 10px;
+	margin:10px 2px;
+	border: 1px solid #0093B1;
+	
+	background: #0093B1;
+}
+#bouttontout a:hover
+{
+	border: 1px solid #0093B1;
+	color:#0093B1 ;
+	background: white;
+	transition: all 0.5s ease;
+}
+#contenuporfolio
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	flex-wrap: nowrap;
+	background-color: #D8E0FF;
+	padding-bottom: 20px;
+}
+#img-contenu img
+{
+display: none;
+}
+#img-portsfolio
+{
+	display: none;
+}
+#porfolio-phone
+{
+	
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: block;
+	margin-top: 20px;
+}
+#porfolio-phone img
+{
+	width: 150px;
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+}
+#fleche-gauche1, #fleche-droite1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	margin-top: 50px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+#fleche-gauche1 img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	cursor: pointer;
+	width: 20px;
+}
+#fleche-droite1 img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	cursor: pointer;
+	width: 20px;	
+}
+					/*QUI SOMMES NOUS*/
+#qui-sommes-nous
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	background-image: inherit;
+	background-repeat: no-repeat;
+	width: 272px;
+	padding-top: 57px;
+}
+#qui-sommes
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display: block;
+	width: 272px;
+}
+#soratra-qui
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content:center;
+
+}
+#soratra-qui h1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content:center;
+	font-family:rubik;
+	font-weight: 700;
+	font-size:18px;
+	color:white;
+	letter-spacing:2px;
+	background-image: url(images/fond-porfolio.png);
+	padding: 15px 0px;
+
+}
+#soratra-qui img
+{
+display: none;
+}
+#soratra-qui h2
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content:center;
+	font-family:rubik;
+	font-weight: 500;
+	font-size:10.5px;
+	color:#4E4E4E;
+	line-height: 23px;
+	width: 260px;
+	margin-left: 7px;
+	margin-top: 10px;
+
+
+}
+#sary-qui
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 272px;
+}
+#sary-qui img
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	width: 272px;
+}
+
+#apropos
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	display:block;
+	margin-top: 20px;
+	width: 272px;
+}
+#img-apropos
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	float: right;
+	margin-right: 10px;
+}
+#img-apropos img
+{
+	width: 100px;
+}
+#soratra-apropos
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+}
+#soratra-apropos img
+{
+	display: none;
+}
+#soratra-apropos h1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 700;
+	font-size:22px;
+	color:#006C7D;
+	letter-spacing:3px;
+	margin-bottom: 10px;
+}
+#soratra-apropos h2
+{
+	margin:0;
+	padding: 0;
+	text-align: left;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 500;
+	font-size:10.5px;
+	color:#4E4E4E;
+	line-height: 23px;
+	width: 250px;
+	margin-left: 15px;
+}
+
+				/*NOS ENGAGEMENT*/
+#nos-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 272px;
+	padding-top: 57px;
+}
+#header-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-image: url(images/fond-engagement.png);
+	background-repeat: no-repeat;
+	margin-bottom: 20px;
+	width: 272px;
+}
+#header-engagement h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	font-family:rubik;
+	font-size:20px;
+	font-weight:500;
+	color: white;
+	letter-spacing:4px;
+	font-style:inherit;
+	padding: 15px 10px;
+
+}
+#header-engagement img
+{
+display: none;
+}
+#technologie
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	margin-bottom: 18px;
+}
+#technologie h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis;
+	font-size:18px;
+	font-weight:800;
+	color: #5E5E5E;
+	letter-spacing:8px;
+}
+#technologie img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 100px;
+	height: 1px;
+}
+
+#contenu-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display: flex;
+	margin-bottom: 18px;
+
+}
+#sary-engagement-phone
+{
+	display: block;
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+#sary-engagement-phone img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 120px;
+	box-shadow: 0px 0px 5px #6CA2AB;
+	cursor: pointer;
+}
+#fleche-engagement-g, #fleche-engagement-d
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	margin: 20px 22px 0px 22px;
+}
+#fleche-engagement-g img, #fleche-engagement-d img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	cursor: pointer;
+	width: 30px;
+}
+#sary-engagement
+{
+display: none;
+}
+
+#soratra-engagement
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+#soratra-engagement h2
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:rubik;
+	font-weight: 400;
+	font-size:12px;
+	color:#676767;
+	letter-spacing:0px;
+	line-height: 25px;
+	padding: 0px 20px;
+	margin-bottom: 15px;
+
+
+}
+#soratra-engagement h2 br
+{
+	display: none;
+}
+#soratra-engagement a
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis;
+	font-weight: 500;
+	font-size:11px;
+	color: white;
+	letter-spacing: 2px;
+	text-decoration: none;
+	background-color: #10C0DC;
+	padding: 10px 10px;
+}
+#soratra-engagement a:hover
+{
+	border: 2px solid #10C0DC;
+	color:white ;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+
+
+			/*CONTACT TSIKA ZAO*/
+#contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	padding-top: 56px;
+	width: 272px;
+}
+
+#header-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display: flex;
+	background-image: url(images/fond-contact.png);
+	width: 272px;
+}
+#soratra-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+#soratra-contact h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis-bold;
+	font-size:20px;
+	color: white;
+	letter-spacing:4px;
+	font-style: inherit;
+	padding-top: 18px;
+	padding-left: 5px;
+}
+#soratra-contact img
+{
+	display: none;
+}
+#sary-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	padding-top: 10px;
+}
+#sary-contact img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 70px;	
+}
+
+#contenu-contact
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display:block;
+	width: 272px;
+}
+#formulaire
+{
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+	text-align: center;
+	background-color: #EFFDFF;
+	padding-bottom: 20px;
+}
+#formulaire img
+{
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+	text-align: center;
+}
+.formulaire
+{
+	margin: 0;
+	padding: 0;
+	border: 1px solid #08ACC6;
+	border-radius: 20px;
+	width: 230px;
+	font-family:metropolis-light;
+	font-size: 13px;
+	color: #808080;
+	margin-top: 18px;
+	outline: none;
+	font-style: italic;
+	padding: 8px;
+}
+.formulaire:focus
+{
+	font-family: metropolis;
+	font-style:none;
+	color: #006C7D;
+	font-style: inherit;
+	font-size: 15px;
+	font-weight: 400;
+}
+#submit
+{
+	font-family:metropolis;
+		font-size:15px;
+		color: white;
+		letter-spacing:1px;
+		background-color: #10C0DC;
+		border-radius: 50px;
+		padding: 13px 30px;
+		outline: none;
+		border: none;
+		cursor: pointer;
+		margin-top: 18px;
+}
+#submit:hover
+{
+	border: 2px solid #10C0DC;
+	color:white ;
+	background: transparent;
+	transition: all 0.5s ease;
+	color: #10C0DC;
+}
+#formulaire h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family: corbel;
+	font-size:25px;
+	font-weight: 500;
+	color:#4D7092;
+	letter-spacing:-2px;
+	padding-top: 20px;
+}
+iframe
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center; 
+	width: 260px;
+	height: 300px;
+	margin-top: 10px;
+}
+	
+					/*COORDONNE*/
+#coordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-color: #10C0DC;
+	margin-top: 20px;
+	width: 272px;
+}
+
+#titre-coordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-color:#0BA4BC;
+}
+#titre-coordonne h1
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	font-family:metropolis;
+	letter-spacing:4px ;
+	color: white;
+	font-size:22px ;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#contenu-coordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	display:block;
+}
+
+#soratracoordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+}
+
+
+.contenucoordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:left;
+	justify-content: left;
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 18px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.contenucoordonne h3
+{
+	margin: 0;
+	padding: 0;
+	font-family:metropolis-light;
+	letter-spacing:2px ;
+	color: white;
+	font-size:11px ;
+	font-style: italic;
+	line-height: 30px;
+	width: 200px;
+
+}
+.contenucoordonne img
+{
+	width: 30px;
+	height: 25px;
+	margin: 0;
+	cursor: pointer;
+	margin-right: 12px;
+	padding-top: 5px;
+}
+
+.contenucoordonne h2
+{
+	margin: 0;
+	padding: 0;
+	margin: 0;
+	padding: 0;
+	font-family:metropolis-light;
+	font-weight: lighter;
+	letter-spacing:2px ;
+	color: white;
+	font-size:15px;
+	line-height: 30px;
+}
+#sarycoordonne
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	background-color:#009EB7;
+	padding: 18px 0px;
+
+
+}
+#sarycoordonne br
+{
+	display: none;
+}
+#sarycoordonne img
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	width: 50px;
+	margin: 0px 5px;
+}
+
+#sarycoordonne img:hover
+{
+	filter: invert(5%);
+	filter: contrast(2);
+	transition: all 0.5s ease;
+}
+
+#footer
+{
+	height: 30px;
+	background-color: #246974;
+	padding: 0;
+	margin:0;
+	text-align: center;
+}
+#footer h1
+{
+	margin: 0;
+	padding: 0;
+	font-family:metropolis-light;
+	font-size: 7px;
+	letter-spacing: 5px;
+	color: white;
+
+	padding-top: 10px;
+}
+#loko1
+{
+display: none;
+}
+#loko2
+{
+	margin:0;
+	padding: 0;
+	text-align:center;
+	justify-content: center;
+	height: 15px;
+	background-color:#007D91;
+}
+}
+		
+
+
+
+
+
+
+
+
+
+
